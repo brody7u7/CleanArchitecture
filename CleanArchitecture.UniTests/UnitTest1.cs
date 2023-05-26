@@ -1,4 +1,4 @@
-namespace CleanArchitecture.UniTests
+namespace $ext_safeprojectname$.UniTests
 {
     [TestClass]
     public class UnitTest1

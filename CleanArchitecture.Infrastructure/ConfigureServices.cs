@@ -1,8 +1,8 @@
-﻿using CleanArchitecture.Core.Repositories;
-using CleanArchitecture.Infrastructure.Repositories;
+﻿using $ext_safeprojectname$.Core.Repositories;
+using $ext_safeprojectname$.Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CleanArchitecture.Extensions.DependencyInjection
+namespace $ext_safeprojectname$.Extensions.DependencyInjection
 {
     public static class ConfigureServices
     {

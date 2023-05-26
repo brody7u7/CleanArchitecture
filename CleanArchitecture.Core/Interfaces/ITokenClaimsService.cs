@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Core.Interfaces
+﻿namespace $ext_safeprojectname$.Core.Interfaces
 {
     public interface ITokenClaimsService
     {

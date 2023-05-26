@@ -1,7 +1,7 @@
-﻿using CleanArchitecture.Core.Configuration;
-using CleanArchitecture.Core.Interfaces;
-using CleanArchitecture.Core.Models;
-using CleanArchitecture.Core.Repositories;
+﻿using $ext_safeprojectname$.Core.Configuration;
+using $ext_safeprojectname$.Core.Interfaces;
+using $ext_safeprojectname$.Core.Models;
+using $ext_safeprojectname$.Core.Repositories;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using System;
@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Infrastructure.Repositories
+namespace $ext_safeprojectname$.Infrastructure.Repositories
 {
     public class WeatherRepository : Repository, IWeatherRepository
     {

@@ -1,7 +1,7 @@
-using CleanArchitecture.Core.Interfaces;
+using $ext_safeprojectname$.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CleanArchitecture.Controllers
+namespace $safeprojectname$.Controllers
 {
     [ApiController]
     [Route("[controller]")]

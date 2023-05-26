@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Core.Repositories
+namespace $ext_safeprojectname$.Core.Repositories
 {
     public interface IWeatherRepository
     {

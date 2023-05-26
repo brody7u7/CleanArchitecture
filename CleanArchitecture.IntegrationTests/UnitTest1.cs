@@ -1,4 +1,4 @@
-namespace CleanArchitecture.IntegrationTests
+namespace $ext_safeprojectname$.IntegrationTests
 {
     [TestClass]
     public class UnitTest1

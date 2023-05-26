@@ -1,12 +1,12 @@
-﻿using CleanArchitecture.API.Services;
-using CleanArchitecture.Core.Interfaces;
-using CleanArchitecture.Core.Policies;
+﻿using $ext_safeprojectname$.API.Services;
+using $ext_safeprojectname$.Core.Interfaces;
+using $ext_safeprojectname$.Core.Policies;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 
-namespace CleanArchitecture.Extensions.DependencyInjection
+namespace $ext_safeprojectname$.Extensions.DependencyInjection
 {
     public static class ConfigureServices
     {

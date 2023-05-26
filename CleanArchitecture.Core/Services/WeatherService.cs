@@ -1,13 +1,13 @@
-﻿using CleanArchitecture.Core.Interfaces;
-using CleanArchitecture.Core.Models;
-using CleanArchitecture.Core.Repositories;
+﻿using $ext_safeprojectname$.Core.Interfaces;
+using $ext_safeprojectname$.Core.Models;
+using $ext_safeprojectname$.Core.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Core.Services
+namespace $ext_safeprojectname$.Core.Services
 {
     public class WeatherService : IWeatherService
     {

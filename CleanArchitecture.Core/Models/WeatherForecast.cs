@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Core.Models
+﻿namespace $ext_safeprojectname$.Core.Models
 {
     public class WeatherForecast
     {

@@ -1,13 +1,13 @@
-﻿using CleanArchitecture.Core.Configuration;
-using CleanArchitecture.Core.Interfaces;
-using CleanArchitecture.Core.Policies;
+﻿using $ext_safeprojectname$.Core.Configuration;
+using $ext_safeprojectname$.Core.Interfaces;
+using $ext_safeprojectname$.Core.Policies;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace CleanArchitecture.API.Services
+namespace $ext_safeprojectname$.API.Services
 {
     public class JwtHelper : ITokenClaimsService
     {

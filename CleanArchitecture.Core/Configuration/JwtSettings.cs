@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Core.Configuration
+﻿namespace $ext_safeprojectname$.Core.Configuration
 {
     public class JwtSettings
     {

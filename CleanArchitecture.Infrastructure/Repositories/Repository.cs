@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Infrastructure.Repositories
+namespace $ext_safeprojectname$.Infrastructure.Repositories
 {
     public abstract class Repository
     {

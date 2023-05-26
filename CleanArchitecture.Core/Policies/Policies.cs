@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Core.Policies
+﻿namespace $ext_safeprojectname$.Core.Policies
 {
     public static class Policies
     {

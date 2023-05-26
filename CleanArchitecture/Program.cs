@@ -1,4 +1,4 @@
-using CleanArchitecture.Extensions.DependencyInjection;
+using $ext_safeprojectname$.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 

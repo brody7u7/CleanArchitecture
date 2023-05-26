@@ -1,8 +1,8 @@
-﻿using CleanArchitecture.Core.Models;
-using CleanArchitecture.Core.Policies;
+﻿using $ext_safeprojectname$.Core.Models;
+using $ext_safeprojectname$.Core.Policies;
 using System.Security.Claims;
 
-namespace CleanArchitecture.API.Services
+namespace $ext_safeprojectname$.API.Services
 {
     public class CurrentUserService : Core.Interfaces.ICurrentUserService
     {

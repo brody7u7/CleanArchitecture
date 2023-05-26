@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Core.Models
+namespace $ext_safeprojectname$.Core.Models
 {
     public class Identity
     {
